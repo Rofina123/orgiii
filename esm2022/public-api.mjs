@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of rbac-org
+ */
+export * from './lib/rbac-org.service';
+export * from './lib/rbac-org.component';
+export * from './lib/rbac-org.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uL3Byb2plY3RzL3BpY3MtY29yZS9yYmFjLW9yZy9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsd0JBQXdCLENBQUM7QUFDdkMsY0FBYywwQkFBMEIsQ0FBQztBQUN6QyxjQUFjLHVCQUF1QixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcclxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIHJiYWMtb3JnXHJcbiAqL1xyXG5cclxuZXhwb3J0ICogZnJvbSAnLi9saWIvcmJhYy1vcmcuc2VydmljZSc7XHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL3JiYWMtb3JnLmNvbXBvbmVudCc7XHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL3JiYWMtb3JnLm1vZHVsZSc7XHJcbiJdfQ==
